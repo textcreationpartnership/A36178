@@ -1,0 +1,3267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Division of the county of Essex into severall classes together with the names of the ministers and others fit to be of each classis [sic] ; ... for the judging of scandall, and approving the classes in the severall counties of England.</title>
+         </titleStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36178</idno><idno type="EEBO-CITATION">12755361</idno>
+  <idno type="VID">93404</idno>
+  <idno type="EEBO-PROQUEST">2240970640</idno>
+  
+            <idno type="STC">Wing D1738</idno>
+            <idno type="STC">ESTC R32796</idno>
+            <idno type="OCLC">12755361</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93404)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1033:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Division of the county of Essex into severall classes together with the names of the ministers and others fit to be of each classis [sic] ; ... for the judging of scandall, and approving the classes in the severall counties of England.</title>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Wright,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages cropped, stained, with loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Clergy --  Directories.</term>
+               <term type="topical_term">Presbyterianism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93404:1"/>
+            <pb facs="tcp:93404:1"/>
+            <p>THE DIVISION Of the County of Essex into severall CLASSES: TOGETHER With the names of the Ministers and others fit to be of each Classis.</p>
+            <p>Certified by the standing Committee of that County, and approved of by the Committee of Lords and Commons appointed by Ordinance of both Houses of PARLIAMENT For the Judging of Scandall, and approving the Classes in the severall Counties of <hi>ENGLAND.</hi>
+            </p>
+            <p>Printed at <hi>London,</hi> for JOHN WRIGHT at the Kings Head in the Old Bailey. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="classis">
+            <pb facs="tcp:93404:2"/>
+            <pb n="1" facs="tcp:93404:2"/>
+            <head>The First Classis is called Becontree, with the Liberty of Havering and Chafford Classis.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Becontree Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>WEst Ham</cell>
+                     <cell>MR. Richard Allen</cell>
+                     <cell>
+                        <list>
+                           <item>RObert Smith Esq;</item>
+                           <item>M. Joh. Dickins Se.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>East Ham</cell>
+                     <cell>M. Slaughter</cell>
+                     <cell>
+                        <list>
+                           <item>Sir Henry Holcroft Kt.</item>
+                           <item>M. Tho. Musket</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Walthamstowe</cell>
+                     <cell>M. Lee</cell>
+                     <cell>M. William Miller</cell>
+                  </row>
+                  <row>
+                     <cell>Wanstead</cell>
+                     <cell>M. Humphrey Maidissone</cell>
+                     <cell>Sir Hen. Mildmay Kt.</cell>
+                  </row>
+                  <row>
+                     <cell>Morn-Church</cell>
+                     <cell>M. John Hofman</cell>
+                     <cell>Tho. Witherings Esq;</cell>
+                  </row>
+                  <row>
+                     <cell>Rumford</cell>
+                     <cell>M. John Morsse</cell>
+                     <cell>
+                        <list>
+                           <item>Car. H. Mildmay Esq;</item>
+                           <item>Joachin Mathewes Esq;</item>
+                           <item>M. John Feninge</item>
+                           <item>M. William Cumins</item>
+                           <item>M. John Dodson</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Havering</cell>
+                     <cell>M. Nehemiah Dod</cell>
+                     <cell>
+                        <list>
+                           <item>Sir Tho. Cheek Kt.</item>
+                           <item>M. Edw. Pickering</item>
+                           <item>M. Tho. Prestone</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Layton</cell>
+                     <cell> </cell>
+                     <cell>Sir William Hicks</cell>
+                  </row>
+                  <row>
+                     <cell>Barkinge</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>M. Tho. Lake</item>
+                           <item>M. Robert White senior.</item>
+                           <item>M. Rich, Seamer</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>Ilford perva</item>
+                           <item>Dagenham</item>
+                           <item>Woodford</item>
+                        </list>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <table>
+                  <pb n="2" facs="tcp:93404:3"/>
+                  <row>
+                     <cell role="label">
+                        <hi>Chafford Hundred</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>CHilderditch</cell>
+                     <cell>MR. Daniel Duckfield</cell>
+                     <cell>Nich. Threshe<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>North-Ockendon</cell>
+                     <cell>M. Jackson</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Warley M.</cell>
+                     <cell>M. Edmond Foord</cell>
+                     <cell>
+                        <list>
+                           <item>Isaac Paine</item>
+                           <item>Tho. Prentice</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>South-Ockendon</cell>
+                     <cell>M. John Petchie</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Cranham</cell>
+                     <cell>M. Robert Watson</cell>
+                     <cell>
+                        <list>
+                           <item>Ralph Jocelin</item>
+                           <item>John Gaunt</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Stifford</cell>
+                     <cell>M. Lathum</cell>
+                     <cell>James Silverlock Esq;</cell>
+                  </row>
+                  <row>
+                     <cell>Upminster</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>John Sonds</item>
+                           <item>Roger Tanner</item>
+                           <item>Rich. Gooday</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>Southweald</item>
+                           <item>Brentwood</item>
+                           <item>Brookstreet.</item>
+                        </list>
+                     </cell>
+                     <cell>M. Nich. Falkingham</cell>
+                     <cell>
+                        <list>
+                           <item>M. Tho. Latham</item>
+                           <item>Robert Smith</item>
+                           <item>John Shelton</item>
+                           <item>John Wright</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Avethley</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Grayes Thorock</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Ranicham</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Worley perva</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Wennington</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>West Thorocke</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="2" type="classis">
+            <head>The second Classis, called Barstable Classis.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Barstable Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>GIngrave</item>
+                           <item>Burstead M.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>MR. Rich. Babbington</item>
+                           <item>M. Samuel Bridge</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>L. Col. Hen. Farr</item>
+                           <item>Fra. Bragg</item>
+                           <item>M. Laggdon</item>
+                           <item>Samuel Wayt</item>
+                           <item>M. Sneath</item>
+                           <item>Edw. Humphrey</item>
+                           <item>Rob. Nicholson</item>
+                           <item>William Hall senior</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <pb n="3" facs="tcp:93404:3"/>
+                  <row>
+                     <cell>Shenvill</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Walter Merriale</item>
+                           <item>John Radley</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Westhorndon</cell>
+                     <cell> </cell>
+                     <cell>Earle of Kent</cell>
+                  </row>
+                  <row>
+                     <cell>Herndon super mount</cell>
+                     <cell>M. Moyse</cell>
+                     <cell>
+                        <list>
+                           <item>Tho. Caldwell</item>
+                           <item>John Ashen</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hutton</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Tho. Amatt</item>
+                           <item>Rich. Petchie</item>
+                           <item>Rich. Amatt.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Layndon Hill</cell>
+                     <cell>M. Benjamin Wenington</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Dunton</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>M. Reeve</item>
+                           <item>Hen. Greene</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>East Horndon</cell>
+                     <cell>M. Edmond Cliffe</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Burstead perva</cell>
+                     <cell> </cell>
+                     <cell>George Walton Esquire</cell>
+                  </row>
+                  <row>
+                     <cell>Bowers Gifford</cell>
+                     <cell>M. Clark</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Mucking</cell>
+                     <cell> </cell>
+                     <cell>M. John Phipp</cell>
+                  </row>
+                  <row>
+                     <cell>Chirringham</cell>
+                     <cell> </cell>
+                     <cell>John Webb</cell>
+                  </row>
+                  <row>
+                     <cell>Ramsdon Bell</cell>
+                     <cell> </cell>
+                     <cell>John Collens</cell>
+                  </row>
+                  <row>
+                     <cell>Pysley</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Ramsden Crayes</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Bassedon</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>South Benfleet</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>B<gap reason="illegible: blotted" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>phan</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Stanford the Hope</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Deadwell</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Thimdersly</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Downham</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Doddinghurst</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>East Tilbury</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Folbing</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <pb facs="tcp:93404:4"/>
+                  <row>
+                     <cell>Laindon</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>evendon</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>North Benfleete</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Orsett</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Therrock perva</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Vannage</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>West Tilbury</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Wickford cum Guildables</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="3" type="classis">
+            <head>The third Classis called Chelmesford Classis.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Chelmsford Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>LEez perva</cell>
+                     <cell>MR. Clark</cell>
+                     <cell>
+                        <list>
+                           <item>THe Right Honourable</item>
+                           <item>Earle of Warwick</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Waltham perva</cell>
+                     <cell>M. Harrison</cell>
+                     <cell>
+                        <list>
+                           <item>Roger Poole</item>
+                           <item>James Weald</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Waltham M.</cell>
+                     <cell>M. Ham</cell>
+                     <cell>
+                        <list>
+                           <item>Sir Rich. Everrard Kt.</item>
+                           <item>M. John Sorrell</item>
+                           <item>John Goodere</item>
+                           <item>Elias Pledger</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Bromefield</cell>
+                     <cell>M. Burr</cell>
+                     <cell>
+                        <list>
+                           <item>John Atwood Esquire</item>
+                           <item>Tho. Puttimer</item>
+                           <item>M. Bullen.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Springfield</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>M. Goodwyn</item>
+                           <item>Dionisius Wright</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Chelmesford</cell>
+                     <cell>M. Mott</cell>
+                     <cell>
+                        <list>
+                           <item>M. Langley</item>
+                           <item>M. Walleager</item>
+                           <item>M. Peck</item>
+                           <item>M. Rogers</item>
+                           <item>M. Jocelin</item>
+                           <item>M. Derrivall</item>
+                           <item>M. Kellway</item>
+                           <item>John Kersey</item>
+                           <item>John Weely</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <pb n="5" facs="tcp:93404:4"/>
+                  <row>
+                     <cell>Wadford</cell>
+                     <cell>M. Guy</cell>
+                     <cell>M. Shetlewood</cell>
+                  </row>
+                  <row>
+                     <cell>Writtle</cell>
+                     <cell>M. Rathborne</cell>
+                     <cell>
+                        <list>
+                           <item>Jo. Wollmer</item>
+                           <item>Ja. Taverner</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Borcham</cell>
+                     <cell>M. Veasie</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Ingatestone</cell>
+                     <cell>M. Willis.</cell>
+                     <cell>
+                        <list>
+                           <item>M Peter Whetcomb</item>
+                           <item>M. Joht Foard</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>West-having-field</cell>
+                     <cell>M. Wrenew</cell>
+                     <cell>
+                        <list>
+                           <item>William Goldingham Esq;</item>
+                           <item>Abraham Luckin</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Rottendon</cell>
+                     <cell>M. Sutcliffe</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Baddow perva</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>M. Leavit</item>
+                           <item>M. Malden</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Badow M.</cell>
+                     <cell>M. Ragg</cell>
+                     <cell>
+                        <list>
+                           <item>M. Pascall</item>
+                           <item>M. Holbororw</item>
+                           <item>M. Hen. Mildmay</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Stocket Butsbury</cell>
+                     <cell> </cell>
+                     <cell>Tho. Calfe</cell>
+                  </row>
+                  <row>
+                     <cell>South-haningfield</cell>
+                     <cell>M. Seath North</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Mountnezing</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Danbury</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>M. Wright</item>
+                           <item>Robert Brooke</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sandon</cell>
+                     <cell>M. Smyth</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Runwell</cell>
+                     <cell> </cell>
+                     <cell>Benjamin Griggs</cell>
+                  </row>
+                  <row>
+                     <cell>Woodham-Fertis</cell>
+                     <cell> </cell>
+                     <cell>M. Frances</cell>
+                  </row>
+                  <row>
+                     <cell>Blakemore</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>M. Whitstone</item>
+                           <item>Tho. Reynolds</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Roxwell</cell>
+                     <cell> </cell>
+                     <cell>Robert Sharpe</cell>
+                  </row>
+                  <row>
+                     <cell>East-haningfield</cell>
+                     <cell> </cell>
+                     <cell>Simon Jocelin</cell>
+                  </row>
+                  <row>
+                     <cell>Margret Jug<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                     <cell>Tho. Harroll</cell>
+                  </row>
+                  <row>
+                     <cell>Chignall St. James</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Chignall Smeely</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Fryarn<gap reason="illegible: blotted" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Leez Magna</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Moulsham</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="4" type="classis">
+            <pb n="6" facs="tcp:93404:5"/>
+            <head>The fourth Classis called Rotchford Classes.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Rotchford Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Wakering perva</cell>
+                     <cell>MR. Packhurst</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>South Shoeberry</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>William Britteredg</item>
+                           <item>John Cannon</item>
+                           <item>Richard Dreamer.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>South-Church</cell>
+                     <cell>M. Church</cell>
+                     <cell>
+                        <list>
+                           <item>Samuel Freeborne Esq;</item>
+                           <item>William Barrow.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Prittlewell</cell>
+                     <cell>M. Peck.</cell>
+                     <cell>
+                        <list>
+                           <item>John Sharp</item>
+                           <item>Rich. Legg</item>
+                           <item>Sam. Freborne</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sutton</cell>
+                     <cell>M. Purcas</cell>
+                     <cell>
+                        <list>
+                           <item>John Boyce</item>
+                           <item>Kenelme Harvle</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Assingdon</cell>
+                     <cell>M. Gibson</cell>
+                     <cell>
+                        <list>
+                           <item>John Greene</item>
+                           <item>Philip Boyce</item>
+                           <item>George Gilson</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Rotchford</cell>
+                     <cell>M. Beard</cell>
+                     <cell>
+                        <list>
+                           <item>Thomas Sharpe</item>
+                           <item>Edward Emmerson</item>
+                           <item>John Brand</item>
+                           <item>Henry Berryman</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hawkwell</cell>
+                     <cell>M. Orsbey</cell>
+                     <cell>Tho. Hubbard</cell>
+                  </row>
+                  <row>
+                     <cell>Southfambridge</cell>
+                     <cell>M. Hopkins</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Cannewdon</cell>
+                     <cell>M. Forward</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Rayleigh</cell>
+                     <cell>M. Caley</cell>
+                     <cell>
+                        <list>
+                           <item>Rich. Radyard</item>
+                           <item>John Marshall</item>
+                           <item>John Stilliman</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Leigh</cell>
+                     <cell>M. Augar</cell>
+                     <cell>
+                        <list>
+                           <item>John Bundock</item>
+                           <item>Richard Haddock</item>
+                           <item>Richard Pulley Gent.</item>
+                           <item>Thomas Harrison</item>
+                           <item>Jonathan Wyer</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hadley</cell>
+                     <cell>M. Wells</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Rawreth</cell>
+                     <cell>M. Warley</cell>
+                     <cell>
+                        <list>
+                           <item>William Rawlins</item>
+                           <item>Thomas Marshall</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                     <cell>Alexander Gowers</cell>
+                  </row>
+               </table>
+               <table>
+                  <pb n="7" facs="tcp:93404:5"/>
+                  <row>
+                     <cell role="label">
+                        <hi>Rochford Classis.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Barling</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Eastwood</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Foulnesse</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Hockleigh</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>North-Showlerry</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Pagglesham</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Stanbridge Magna</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Stanbridge perva</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Shopland</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Wakering Magna</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="5" type="classis">
+            <head>The fifth Classis, called Dengie Classis.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Dengie Hundred</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>MAlden Towne</cell>
+                     <cell>MR. Israel Hewet</cell>
+                     <cell>
+                        <list>
+                           <item>ISaac Allen Esq;</item>
+                           <item>Tho Harris Esq;</item>
+                           <item>Tho. Plum Gent.</item>
+                           <item>Edmond Whitefoot Gen.</item>
+                           <item>John Stevens Gent.</item>
+                           <item>John Maldon Gent.</item>
+                           <item>John Surtosories Gent.</item>
+                           <item>Tho. Langdale Gent</item>
+                           <item>Isaac Robient Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Woodham water</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>M. William Walker</item>
+                           <item>Edward Bigg</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Purleigh</cell>
+                     <cell>M. John Andrewes</cell>
+                     <cell>
+                        <list>
+                           <item>Samuel Eve</item>
+                           <item>William Pond</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Munden</cell>
+                     <cell>M. Isaac Seridg</cell>
+                     <cell>Tho. Sorrell</cell>
+                  </row>
+                  <row>
+                     <cell>Asheldham</cell>
+                     <cell>M. William Gutry</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Burnham</cell>
+                     <cell>M. Antho. Sams</cell>
+                     <cell>William Stacie</cell>
+                  </row>
+                  <row>
+                     <cell>St. Laurence</cell>
+                     <cell>M John Walker</cell>
+                     <cell>
+                        <list>
+                           <item>Jeremy Evered</item>
+                           <item>John Death</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Till<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>igham</cell>
+                     <cell> </cell>
+                     <cell>James Noble</cell>
+                  </row>
+                  <pb n="8" facs="tcp:93404:6"/>
+                  <row>
+                     <cell>Bradwell</cell>
+                     <cell>M. John Sherman</cell>
+                     <cell>John White</cell>
+                  </row>
+                  <row>
+                     <cell>Woodham Ortimer</cell>
+                     <cell>M. Nathaniel Harrison</cell>
+                     <cell>John Vessey</cell>
+                  </row>
+                  <row>
+                     <cell>Stoe-morris</cell>
+                     <cell>M. James Maldon</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>May-land</cell>
+                     <cell>M. William Buckley</cell>
+                     <cell>John Heydon Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>South-minster</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>John Winter-flood</item>
+                           <item>Henry Faire-childe</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Steeple</cell>
+                     <cell> </cell>
+                     <cell>William-Shelton</cell>
+                  </row>
+                  <row>
+                     <cell>Aldthorne</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Cold Norton</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Crixey</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Dengy</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Latchingdon cum Law<g ref="char:EOLhyphen"/>ling</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Northfambridge</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="6" type="classis">
+            <head>The sixth Classis, called Ongar Classis.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Ongar Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>HIgh Laver</cell>
+                     <cell>MR. Thomas King.</cell>
+                     <cell>
+                        <list>
+                           <item>SIr Will. Masham Bar.</item>
+                           <item>Will. Masham Esq;</item>
+                           <item>Robert King Senior</item>
+                           <item>Tho. Ranington</item>
+                           <item>Barnaby King</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Magdalen Laver</cell>
+                     <cell>M. Philip Sanders</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Little Laver</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>William Collens</item>
+                           <item>Peter Foster</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Northweald</cell>
+                     <cell>M. Simon Lince</cell>
+                     <cell>
+                        <list>
+                           <item>Tho. Archer Gent.</item>
+                           <item>Tho. Bennet Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Morton</cell>
+                     <cell>M. Sam. H<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ad</cell>
+                     <cell>
+                        <list>
+                           <item>Henry Shippie</item>
+                           <item>Robert Pavely</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Abbas Rooding</cell>
+                     <cell>M. John Wood</cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="9" facs="tcp:93404:6"/>
+                  <row>
+                     <cell>Belchamp Rooding</cell>
+                     <cell> </cell>
+                     <cell>John Rust</cell>
+                  </row>
+                  <row>
+                     <cell>Fifield</cell>
+                     <cell>M. Constantine</cell>
+                     <cell>
+                        <list>
+                           <item>Robert Ashfield Gent.</item>
+                           <item>John Ting</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Babbing-worth</cell>
+                     <cell>M. John Poole</cell>
+                     <cell>
+                        <list>
+                           <item>Robert Browne Esq;</item>
+                           <item>John Poole</item>
+                           <item>Stephen Summer</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Shelley</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Samuel Calford</item>
+                           <item>Tho. Savill</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Chipping-Ongar</cell>
+                     <cell>M. Hen. Havers</cell>
+                     <cell>
+                        <list>
+                           <item>Robert Young Esq;</item>
+                           <item>Jacob Archer Gent.</item>
+                           <item>William Wolvit Gent.</item>
+                           <item>James Darnell Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Grinstead</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Tho. Emerer Gent.</item>
+                           <item>Richard Bancks Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>High Onger</cell>
+                     <cell>M. Jo. Lanende<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>Zach. Bell Gent.</item>
+                           <item>Rich. Petchie</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>orton Mandevile</cell>
+                     <cell>M. Whiston</cell>
+                     <cell>
+                        <list>
+                           <item>Isaac Davies Gent.</item>
+                           <item>Hen. Prior</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Stondon</cell>
+                     <cell> </cell>
+                     <cell>John Rippingale</cell>
+                  </row>
+                  <row>
+                     <cell>Kelvedon</cell>
+                     <cell>M. George Browne</cell>
+                     <cell>
+                        <list>
+                           <item>Anthony Luther Esq;</item>
+                           <item>Henry Cramp</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Navestock</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Samson Sheffield Esq;</item>
+                           <item>Rich. Doe</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Stanford Rivers</cell>
+                     <cell>M. Math. Ellistone</cell>
+                     <cell>
+                        <list>
+                           <item>William Atwood Esq;</item>
+                           <item>Tho. Cranfield Gent.</item>
+                           <item>John Man Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Stapleford Tawney</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Tho. Luther Esq;</item>
+                           <item>James Burton</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Stapleford Abbot</cell>
+                     <cell>M. Edmond Bentall</cell>
+                     <cell>
+                        <list>
+                           <item>Fra. Stonard Esq;</item>
+                           <item>Tho. How Gent.</item>
+                           <item>Jo. Springham</item>
+                           <item>Tho. Blomefield</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Thoydon Garnon</cell>
+                     <cell>M. Jo. Ferribie</cell>
+                     <cell>
+                        <list>
+                           <item>Da. Dunn Esq;</item>
+                           <item>Major Robert Beard</item>
+                           <item>Tho. Rogers</item>
+                           <item>William Moyse</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <pb n="10" facs="tcp:93404:7"/>
+                  <row>
+                     <cell>Thoydon Boys</cell>
+                     <cell> </cell>
+                     <cell>Geo. Halloway</cell>
+                  </row>
+                  <row>
+                     <cell>Thoydon Mount.</cell>
+                     <cell>M. Robert Rogers</cell>
+                     <cell>
+                        <list>
+                           <item>Capt. Jo. Field</item>
+                           <item>Edw. Gibb Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Lamborne.</cell>
+                     <cell>M. Gamaliell Carr</cell>
+                     <cell>
+                        <list>
+                           <item>William Nichols Gent.</item>
+                           <item>William Waylet Gent.</item>
+                           <item>Hugh Haselland</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Chigwell</cell>
+                     <cell>M. Peter Watkinson</cell>
+                     <cell>
+                        <list>
+                           <item>Tho. Hollis Gent.</item>
+                           <item>William Browne Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Lowton</cell>
+                     <cell>M. Rich. Willis</cell>
+                     <cell>
+                        <list>
+                           <item>Capt. Robert Dav<gap reason="illegible: blotted" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>s</item>
+                           <item>Hen. Osborne Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="7" type="classis">
+            <head>The seventh Classis, called Harlow and Waltham Classis.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Harlow Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>HAtfield Breadoake.</cell>
+                     <cell>MR. Jo. Warren.</cell>
+                     <cell>
+                        <list>
+                           <item>SIr Jo. Barrington Kt. and Baronet.</item>
+                           <item>William Man Gent.</item>
+                           <item>Hen. Wibert</item>
+                           <item>Rich. Rogers</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hallingbury Mag.</cell>
+                     <cell>M, William Hales</cell>
+                     <cell>
+                        <list>
+                           <item>Daniel Fuller Gent.</item>
+                           <item>Robert Heath</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hallingbury perva</cell>
+                     <cell>M. Jo. Wilson</cell>
+                     <cell>
+                        <list>
+                           <item>Robert Tayler Gent.</item>
+                           <item>George King Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sheering</cell>
+                     <cell>M. John Yarley</cell>
+                     <cell>Daniel Cramphorne</cell>
+                  </row>
+                  <row>
+                     <cell>Matching</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>William Sumpner</item>
+                           <item>Jo. Bennet Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Latten</cell>
+                     <cell>M. Tho. Denne</cell>
+                     <cell>
+                        <list>
+                           <item>Will. Stacie of Randals</item>
+                           <item>Dan. Hutson</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Netswell</cell>
+                     <cell>M. Tho. Cramphorne</cell>
+                     <cell>
+                        <list>
+                           <item>Sir William Martin Kt.</item>
+                           <item>Jo. Banister Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Parndon Mag.</cell>
+                     <cell>M. Jeremy Dike</cell>
+                     <cell>
+                        <list>
+                           <item>William Beards</item>
+                           <item>William Hatts</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Pardon perva</cell>
+                     <cell> </cell>
+                     <cell>Nich. Chester.</cell>
+                  </row>
+                  <pb n="11" facs="tcp:93404:7"/>
+                  <row>
+                     <cell>Roydon</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Oliver Harvey</item>
+                           <item>Samuel Stracy</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Harlow</cell>
+                     <cell>M. Edw. Spranger</cell>
+                     <cell>
+                        <list>
+                           <item>Capt. Robert Tomson</item>
+                           <item>Capt. John Savill</item>
+                           <item>Samuel Campaes Gent.</item>
+                           <item>Robert Reeve Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Waltham Hundred</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>WAltham Abby</cell>
+                     <cell>MR. Price</cell>
+                     <cell>
+                        <list>
+                           <item>EDward Golding Gent</item>
+                           <item>Jo. Alcock Gent.</item>
+                           <item>Tho. Winspeare Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Epping</cell>
+                     <cell>M. Hen. Wilkinson</cell>
+                     <cell>
+                        <list>
+                           <item>Lord Gray of Werk</item>
+                           <item>William Bennet</item>
+                           <item>Rich. Hunt</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Chinckford</cell>
+                     <cell>M. Sam. Toxey</cell>
+                     <cell>
+                        <list>
+                           <item>M. Gunnerie.</item>
+                           <item>M. Wallenger</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Naseing</cell>
+                     <cell>M. Jo. Harper</cell>
+                     <cell>
+                        <list>
+                           <item>William Capp Gent.</item>
+                           <item>John Ruggles Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="8" type="classis">
+            <head>The eight Classis, called Dunmowe and Freshwell Classis.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Dunmowe Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>BArneston</cell>
+                     <cell>MR. Beadle</cell>
+                     <cell>MR. Collard</cell>
+                  </row>
+                  <row>
+                     <cell>Broxted</cell>
+                     <cell>M. Chadwick</cell>
+                     <cell>Jo. Searle Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Chickney</cell>
+                     <cell> </cell>
+                     <cell>William Collen Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Dunmowe Mag.</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Robert Milborne Gent.</item>
+                           <item>Robert Calthrope Gent.</item>
+                           <item>William Swallow</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dunmowe perva.</cell>
+                     <cell>M. Alderson</cell>
+                     <cell>Andrew Finch Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Canfield Mag.</cell>
+                     <cell>M. Hearne</cell>
+                     <cell>Edw. Hadsley Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Canfield perva.</cell>
+                     <cell>M. Nowell</cell>
+                     <cell>Jo. Judd Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Easter Alta</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Capt. Edw. Stileman</item>
+                           <item>Philemon Brewer</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <pb n="12" facs="tcp:93404:8"/>
+                  <row>
+                     <cell>Easter-Bona</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Jo. Rolf</item>
+                           <item>Jo. Lack</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Eason-Mage</cell>
+                     <cell>M. Cleyton</cell>
+                     <cell>M. Jo. Mead</cell>
+                  </row>
+                  <row>
+                     <cell>Eason perva.</cell>
+                     <cell> </cell>
+                     <cell>Francis Boutle</cell>
+                  </row>
+                  <row>
+                     <cell>Linsell</cell>
+                     <cell> </cell>
+                     <cell>John Sulmon junior.</cell>
+                  </row>
+                  <row>
+                     <cell>Mashbury</cell>
+                     <cell>M. Bates</cell>
+                     <cell>M. Walter Luckin</cell>
+                  </row>
+                  <row>
+                     <cell>Pleshie</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Roodin Alba</cell>
+                     <cell>M. Collins</cell>
+                     <cell>Jo. Sumpner</cell>
+                  </row>
+                  <row>
+                     <cell>Rooding Alta</cell>
+                     <cell>M. Sherwood</cell>
+                     <cell>Daniel Marshall</cell>
+                  </row>
+                  <row>
+                     <cell>Rooding Barnish</cell>
+                     <cell> </cell>
+                     <cell>John Jocelin</cell>
+                  </row>
+                  <row>
+                     <cell>Rooding Aythorp</cell>
+                     <cell> </cell>
+                     <cell>John Lord</cell>
+                  </row>
+                  <row>
+                     <cell>Rooding Margret</cell>
+                     <cell>M. Staple</cell>
+                     <cell>Daniel Alger</cell>
+                  </row>
+                  <row>
+                     <cell>Rooding Plumbeo</cell>
+                     <cell> </cell>
+                     <cell>William Alger</cell>
+                  </row>
+                  <row>
+                     <cell>Shellow-bowels</cell>
+                     <cell> </cell>
+                     <cell>William Purcas</cell>
+                  </row>
+                  <row>
+                     <cell>Thaxted</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Edw. Mead</item>
+                           <item>Simon Thorndon</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tiltie</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Jo. Guyver Gent.</item>
+                           <item>Nath. Norris</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Willingdale Doe</cell>
+                     <cell>M. Powell</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Willingdale Spaine</cell>
+                     <cell>M. Nichols</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Freshwell Hundred</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>AShdon</cell>
+                     <cell> </cell>
+                     <cell>IOhn Bowtell</cell>
+                  </row>
+                  <row>
+                     <cell>Bardfield Mag.</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Sir Martin Lumley Baro.</item>
+                           <item>James Hart Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Bumstead Helion</cell>
+                     <cell> </cell>
+                     <cell>Rich. Wright</cell>
+                  </row>
+                  <row>
+                     <cell>Bardfield perva</cell>
+                     <cell>M. Lunne</cell>
+                     <cell>
+                        <list>
+                           <item>M. Tho. Wall</item>
+                           <item>M. Joseph Hall</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Bardfield Saling</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="13" facs="tcp:93404:8"/>
+                  <row>
+                     <cell>Hempstead</cell>
+                     <cell> </cell>
+                     <cell>M. Joseph Stiles</cell>
+                  </row>
+                  <row>
+                     <cell>Hadstock</cell>
+                     <cell>M. Wallis</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Radwinter</cell>
+                     <cell>M. Veale</cell>
+                     <cell>Rich. Duerdon</cell>
+                  </row>
+                  <row>
+                     <cell>Sampford Mag.</cell>
+                     <cell>M. Newton</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sampford perva</cell>
+                     <cell>M. Penington</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="9" type="classis">
+            <head>The ninth Classis, called Clavering and Uttlesford Classis.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Clavering Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>BEarden</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Clavering</cell>
+                     <cell>M. John Moore</cell>
+                     <cell>
+                        <list>
+                           <item>Edmond Humphrey Gen.</item>
+                           <item>John Chapman Gent.</item>
+                           <item>Capt. Hatch</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Farnham</cell>
+                     <cell>M. Giles Archer</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Langley</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Maunden</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Ougley</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Ʋttlesford Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>ARxden</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>MR. Rich. Cutts</item>
+                           <item>John Norris</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Birchauger</cell>
+                     <cell> </cell>
+                     <cell>William Read Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Chesterford Mag.</cell>
+                     <cell> </cell>
+                     <cell>M. Borrough</cell>
+                  </row>
+                  <row>
+                     <cell>Chester perva</cell>
+                     <cell>M. John Haughton</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Chissell Mag.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Chissell perva</cell>
+                     <cell>M. James Willet</cell>
+                     <cell>Tho. Aylloffe Esq;</cell>
+                  </row>
+                  <row>
+                     <cell>Debden</cell>
+                     <cell>M. Glover</cell>
+                     <cell>Tho. Hammon Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Elmdon</cell>
+                     <cell>M. William Prynne</cell>
+                     <cell>Samuel Chapman Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Elsenham</cell>
+                     <cell>M. George Wilson</cell>
+                     <cell>Tho. Stock Gent.</cell>
+                  </row>
+                  <pb n="14" facs="tcp:93404:9"/>
+                  <row>
+                     <cell>Henham</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Heydon</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Littlebury</cell>
+                     <cell>M. Henry Prime</cell>
+                     <cell>Tho. Raymond Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Newport</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>John Corbet Gent.</item>
+                           <item>John Bigg Gent.</item>
+                           <item>Tho. Martin Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Quenden</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Rickling</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Stansted-Mount-Fr<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>chet</cell>
+                     <cell>M. Mark Downes</cell>
+                     <cell>
+                        <list>
+                           <item>Timothy Midleton Esq;</item>
+                           <item>William Vincent</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Takeley</cell>
+                     <cell>M. Samuel Story</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Walden</cell>
+                     <cell>M. Bentfield</cell>
+                     <cell>
+                        <list>
+                           <item>John Thorrowgood Gent.</item>
+                           <item>Fr<gap reason="illegible: blotted" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ncis Williamson Gent.</item>
+                           <item>M. Borrowes</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Welden-lofts</cell>
+                     <cell> </cell>
+                     <cell>Rich. Reynold</cell>
+                  </row>
+                  <row>
+                     <cell>Wendens Ambo</cell>
+                     <cell> </cell>
+                     <cell>William Malnie</cell>
+                  </row>
+                  <row>
+                     <cell>Wickham-Bonnet</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Captaine Morrell</item>
+                           <item>Tho. Young</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Widdington</cell>
+                     <cell> </cell>
+                     <cell>Rich. Woodley Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Wimbish</cell>
+                     <cell>M. Rowland Greenwood</cell>
+                     <cell>Nath. Wright Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Chrishall</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Strethall</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="10" type="classis">
+            <head>The tenth Classis, called the west Classis of Hinckford.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Hinckford Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>BUmsteed</cell>
+                     <cell>MR. Jo. Boradale</cell>
+                     <cell>
+                        <list>
+                           <item>RAlph Fitch</item>
+                           <item>Sam. Bell</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Stamberne</cell>
+                     <cell>M. Jo. Pannell</cell>
+                     <cell>Stephen Hints</cell>
+                  </row>
+                  <row>
+                     <cell>Bride-brooke</cell>
+                     <cell>M. Jo. Gent.</cell>
+                     <cell>
+                        <list>
+                           <item>George Pike Esq;</item>
+                           <item>Martin Sparrow</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Foxearth</cell>
+                     <cell>M. Jo. Firmine</cell>
+                     <cell>John Isaac Gent.</cell>
+                  </row>
+                  <pb n="15" facs="tcp:93404:9"/>
+                  <row>
+                     <cell>Pentloe</cell>
+                     <cell> </cell>
+                     <cell>Tho. Sandall</cell>
+                  </row>
+                  <row>
+                     <cell>Ouington</cell>
+                     <cell> </cell>
+                     <cell>Samuel Pepps Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Belchamp Walter</cell>
+                     <cell> </cell>
+                     <cell>Oliver Raymon Esq;</cell>
+                  </row>
+                  <row>
+                     <cell>Belchamp St. Paul</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Tho. Dyer Gent.</item>
+                           <item>William Givers Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Belchamp Oten</cell>
+                     <cell> </cell>
+                     <cell>Tho. Chaplin</cell>
+                  </row>
+                  <row>
+                     <cell>Regnell</cell>
+                     <cell> </cell>
+                     <cell>Peter Alliston</cell>
+                  </row>
+                  <row>
+                     <cell>Liston</cell>
+                     <cell> </cell>
+                     <cell>Tho. Chapton Esq;</cell>
+                  </row>
+                  <row>
+                     <cell>Tilbury</cell>
+                     <cell>M. William Clarke</cell>
+                     <cell>Tho. Purcas</cell>
+                  </row>
+                  <row>
+                     <cell>Boreley</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Ashen<gap reason="illegible: blotted" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> Esse</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sturanny</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Topfield</cell>
+                     <cell>M. Jo. Overed</cell>
+                     <cell>
+                        <list>
+                           <item>Christopher Earle Esq;</item>
+                           <item>M. Samuel Smith</item>
+                           <item>Robert Wamtford</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Stebbing</cell>
+                     <cell>M. Aynswotth</cell>
+                     <cell>
+                        <list>
+                           <item>John Sorrell</item>
+                           <item>John Andrewes</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hunningham <gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>astle</cell>
+                     <cell>M. Brewer</cell>
+                     <cell>
+                        <list>
+                           <item>Arthur Barmston Esq;</item>
+                           <item>M. Bradshaw</item>
+                           <item>Jo. Parmiter Senior</item>
+                           <item>George Taylor</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hunningham <gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ibble</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Yeldam Magna</cell>
+                     <cell>M. Richard Moseley</cell>
+                     <cell>
+                        <list>
+                           <item>Sidrach Smith</item>
+                           <item>Sam. Plum Gent.</item>
+                           <item>John Simons Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Yeldam perva</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Finchingfield</cell>
+                     <cell>
+                        <list>
+                           <item>M. Stephen Marshall</item>
+                           <item>M. Letmale</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>Sir Robert Kemp Knight.</item>
+                           <item>John Mead Esq;</item>
+                           <item>Capt. John Pue</item>
+                           <item>Richard Hanington</item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="11" type="classis">
+            <pb n="16" facs="tcp:93404:10"/>
+            <head>The eleventh Classis, called the East Classis of Hinckford.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Hinckford Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>BOcking</cell>
+                     <cell>DOctor Gawden</cell>
+                     <cell>
+                        <list>
+                           <item>Roger Wentworth Esq;</item>
+                           <item>M. Haudes</item>
+                           <item>John Reeve</item>
+                           <item>William Skinner</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Brayntree</cell>
+                     <cell>M. Samuel Collins</cell>
+                     <cell>
+                        <list>
+                           <item>Joseph Draper</item>
+                           <item>Adrian Mot</item>
+                           <item>Robert Aylet</item>
+                           <item>Richard Scot</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Felsted</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Giles Moseley Senior</item>
+                           <item>Edm. Cordall Gent.</item>
+                           <item>William Porter</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Weatherfeld</cell>
+                     <cell>
+                        <list>
+                           <item>M. Daniel Rogers</item>
+                           <item>M. Daniel Weald</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>M. Binckes</item>
+                           <item>Jo. Allen</item>
+                           <item>Jo. Bird</item>
+                           <item>Jo. Walford</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Shalford</cell>
+                     <cell>M. Hills</cell>
+                     <cell>Marin Carter</cell>
+                  </row>
+                  <row>
+                     <cell>S<gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>sted</cell>
+                     <cell> </cell>
+                     <cell>Henry Algar</cell>
+                  </row>
+                  <row>
+                     <cell>Raine</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Panfield</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alphanston.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Bulmer</cell>
+                     <cell> </cell>
+                     <cell>John Eden Esq;</cell>
+                  </row>
+                  <row>
+                     <cell>Tallingdon and Brandon</cell>
+                     <cell> </cell>
+                     <cell>John Jugham</cell>
+                  </row>
+                  <row>
+                     <cell>Gestlingthorpe</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Heyney</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lamarsh</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Milton</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Maplested Mag.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Maplested perva</cell>
+                     <cell> </cell>
+                     <cell>Deane T<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ndall Esq;</cell>
+                  </row>
+                  <row>
+                     <cell>Pebmarsh</cell>
+                     <cell>M. Tho. Burroughs</cell>
+                     <cell>Tho. Cock Esq;</cell>
+                  </row>
+                  <row>
+                     <cell>Wickham St. Paul</cell>
+                     <cell>M. Deersly</cell>
+                     <cell>Richard White</cell>
+                  </row>
+                  <pb n="17" facs="tcp:93404:10"/>
+                  <row>
+                     <cell>Twinstead</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Gosfield</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Halsted</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="12" type="classis">
+            <head>The twelfth Classis, called Lexden Classis.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Lexden Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>STanway</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Dedham</cell>
+                     <cell>
+                        <list>
+                           <item>M. Matthew Newcomen</item>
+                           <item>M. George Smith</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>John Alefounder</item>
+                           <item>Hen. Fenn</item>
+                           <item>Robert Salmon</item>
+                           <item>Robert Webb</item>
+                           <item>Clement Fenn</item>
+                           <item>Bezaliell Auger</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Fordham</cell>
+                     <cell> </cell>
+                     <cell>David Polley</cell>
+                  </row>
+                  <row>
+                     <cell>Horckesley</cell>
+                     <cell>M. Nath. Bugg</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Boxted</cell>
+                     <cell>M. John Hubbord</cell>
+                     <cell>
+                        <list>
+                           <item>M. Jo. Maidstone Senior.</item>
+                           <item>Jo. Barker</item>
+                           <item>Jo. Adkinson</item>
+                           <item>Jo. Messing</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Langham</cell>
+                     <cell>M. Jo. Farrar</cell>
+                     <cell>Nicholas Wall Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Birtch</cell>
+                     <cell>M. Jo. Ludgate</cell>
+                     <cell>Hezekiah Haines Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Wormingford</cell>
+                     <cell>M. Turner</cell>
+                     <cell>Giles Barnardistone Gen.</cell>
+                  </row>
+                  <row>
+                     <cell>Doniland</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>M. Toustall</item>
+                           <item>M. Jo. Smith</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Bircham-Easthorpe</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Edw. Philips</item>
+                           <item>Tho. Michelfield</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Wivenhoe</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Inworth</cell>
+                     <cell>M. Whatton</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Coggeshall</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Robert Crane Gent.</item>
+                           <item>William Tanner</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Copford</cell>
+                     <cell>M. Robert Tomson</cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="18" facs="tcp:93404:11"/>
+                  <row>
+                     <cell>Earles Colve</cell>
+                     <cell>M. Ralph Jocelin</cell>
+                     <cell>
+                        <list>
+                           <item>Rich. Harelackenden Esq;</item>
+                           <item>Edm. Clarke Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Chappell</cell>
+                     <cell>M. Timothy Rogers</cell>
+                     <cell>
+                        <list>
+                           <item>William Laurence</item>
+                           <item>Paul Raymon</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Aldham</cell>
+                     <cell>M. Gamaliell Carr</cell>
+                     <cell>John Sayer Esq;</cell>
+                  </row>
+                  <row>
+                     <cell>Feering</cell>
+                     <cell>M. Jo. Okeley</cell>
+                     <cell>Tho. Browning</cell>
+                  </row>
+                  <row>
+                     <cell>Marshall</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Sir Tho. Hony-wood Kt.</item>
+                           <item>John Smith</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Patesrick</cell>
+                     <cell> </cell>
+                     <cell>M. Rich. Wiseman</cell>
+                  </row>
+                  <row>
+                     <cell>Tey Mag.</cell>
+                     <cell> </cell>
+                     <cell>William Stebbing</cell>
+                  </row>
+                  <row>
+                     <cell>Messing</cell>
+                     <cell> </cell>
+                     <cell>Jo. Haseler</cell>
+                  </row>
+                  <row>
+                     <cell>White Colne</cell>
+                     <cell> </cell>
+                     <cell>Edward Johnson</cell>
+                  </row>
+                  <row>
+                     <cell>Burgholt</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Colne-wake</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Colne-enganie</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Mount Bures</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Marke Tey</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="13" type="classis">
+            <head>The thirteenth Classis, called Tendering Classis.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Tendering Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>WRabnis</cell>
+                     <cell>MR. William Pibble</cell>
+                     <cell>THo. Edgar</cell>
+                  </row>
+                  <row>
+                     <cell>Layford</cell>
+                     <cell>M. Jo. Edes</cell>
+                     <cell>George Francis</cell>
+                  </row>
+                  <row>
+                     <cell>Ardley</cell>
+                     <cell>M. Nath. Carr</cell>
+                     <cell>
+                        <list>
+                           <item>John Lofking</item>
+                           <item>Bazaliell Gale</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Mistley and Manningtree</cell>
+                     <cell>M. Tho. Games</cell>
+                     <cell>
+                        <list>
+                           <item>Robert Taylor</item>
+                           <item>Robert Lofkin</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Bromely Mag.</cell>
+                     <cell>M. Tho. Slaughter</cell>
+                     <cell>Sir Tho. Bowes Kt.</cell>
+                  </row>
+                  <row>
+                     <cell>Bentley perva</cell>
+                     <cell>M. Anth. Whiting</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Holland Mag.</cell>
+                     <cell>M. Edw. Dowell</cell>
+                     <cell>John Alderton</cell>
+                  </row>
+                  <pb n="19" facs="tcp:93404:11"/>
+                  <row>
+                     <cell>Thorington</cell>
+                     <cell>M. Jo. Reade</cell>
+                     <cell>Jeremy Gale</cell>
+                  </row>
+                  <row>
+                     <cell>Okely Mag.</cell>
+                     <cell>M. Robert Cole.</cell>
+                     <cell>Ciprian Bridge</cell>
+                  </row>
+                  <row>
+                     <cell>Okely perva</cell>
+                     <cell>M. Jo. Malden</cell>
+                     <cell>John Cuckoe</cell>
+                  </row>
+                  <row>
+                     <cell>Bradfield</cell>
+                     <cell>M. Hen. Seamer.</cell>
+                     <cell>Sir Harb. Grimstone Bar.</cell>
+                  </row>
+                  <row>
+                     <cell>Ramsey</cell>
+                     <cell> </cell>
+                     <cell>Samuel Carrington</cell>
+                  </row>
+                  <row>
+                     <cell>Harwich</cell>
+                     <cell> </cell>
+                     <cell>Rich. Hanking Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Dover-Court</cell>
+                     <cell> </cell>
+                     <cell>Tho. Crispe</cell>
+                  </row>
+                  <row>
+                     <cell>Wickes</cell>
+                     <cell> </cell>
+                     <cell>Tho. Veasie Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Bentley Mag.</cell>
+                     <cell> </cell>
+                     <cell>M. Barnaby</cell>
+                  </row>
+                  <row>
+                     <cell>Bromely perva</cell>
+                     <cell> </cell>
+                     <cell>James Cardinall</cell>
+                  </row>
+                  <row>
+                     <cell>Weelie</cell>
+                     <cell> </cell>
+                     <cell>Amos Fisher</cell>
+                  </row>
+                  <row>
+                     <cell>Clackton Mag.</cell>
+                     <cell> </cell>
+                     <cell>M. Roves</cell>
+                  </row>
+                  <row>
+                     <cell>Clackton perva</cell>
+                     <cell> </cell>
+                     <cell>Philip Daniell</cell>
+                  </row>
+                  <row>
+                     <cell>Thorpe</cell>
+                     <cell> </cell>
+                     <cell>George Nichols</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>Areford</item>
+                           <item>Beamond</item>
+                           <item>Bricklesey</item>
+                           <item>Elmsteed</item>
+                           <item>Fratting</item>
+                           <item>Frinton</item>
+                           <item>Holland perva</item>
+                           <item>Kirby</item>
+                           <item>Mossey</item>
+                           <item>St. Oseth</item>
+                           <item>Tendering</item>
+                           <item>Walton</item>
+                        </list>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="14" type="classis">
+            <head>The fourteenth Classis, called Thurstable, Winstree, Witham, Colchester Classis.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Thurstable Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>WIckham</cell>
+                     <cell>MR. Enoch Gray</cell>
+                     <cell>
+                        <list>
+                           <item>IOsiah Wilking Gent.</item>
+                           <item>Robert Plum Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <pb n="20" facs="tcp:93404:12"/>
+                  <row>
+                     <cell>Goldanger</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Heighbridge</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Langford</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>T<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lsbury</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Totham Mugna.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Totham perva</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Toulshout Knights</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Toulshout Maior</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Toulshout Darcy</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Winstrey Hundred.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>LAyer Merney</cell>
+                     <cell>MR. Joseph Downing</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Wigborough Mag.</cell>
+                     <cell>M Daniel Cardinall</cell>
+                     <cell>John Batchelor Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Peldon</cell>
+                     <cell>M. Fra. Ounge</cell>
+                     <cell>Jo. Rolfe Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Aberton</cell>
+                     <cell> </cell>
+                     <cell>Tho. West-browne Gen</cell>
+                  </row>
+                  <row>
+                     <cell>Layer De la Hay</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Tho. Wall Gent.</item>
+                           <item>Strange Chapman Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>West-Mersey</cell>
+                     <cell> </cell>
+                     <cell>Robert Poune Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>East-Mersey</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Fringrithoe</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Langenhoe</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Laer-Bretton</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Witham Hundred</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>WItham</cell>
+                     <cell>MR. Richard Rowles</cell>
+                     <cell>
+                        <list>
+                           <item>WIlliam Allen</item>
+                           <item>Robert Gerrard</item>
+                           <item>Jeremy Skingle</item>
+                           <item>Jo. Freborne</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Rivenall</cell>
+                     <cell> </cell>
+                     <cell>M. Jeremy Aylet Senior.</cell>
+                  </row>
+                  <row>
+                     <cell>Blank Noteley</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Braxted Mag.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="21" facs="tcp:93404:12"/>
+                  <row>
+                     <cell>Braxted perva</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Bradwell</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Cogshall perva</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Cressing</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Fairestead</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Felborne</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Hatfield Peverell</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Keldon</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Esterford</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Terling</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Ulting</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>White Noteley</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Colchester</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ministers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Elders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>THe Towne</cell>
+                     <cell>MR. Harmer</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Leonards Parish</cell>
+                     <cell>M. Alexander Piggot</cell>
+                     <cell>Robert Talcot Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>Maries Parish</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Harbottle Grimston Esq;</item>
+                           <item>John Coxe Gent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Lexden Parish</cell>
+                     <cell>M. James Wyersdale</cell>
+                     <cell>
+                        <list>
+                           <item>Doctor Gliston</item>
+                           <item>William Barnes</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>James Parish</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Jo. Jocelin Esq;</item>
+                           <item>Jo. Godscall Gent.</item>
+                           <item>Anthony Smith</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Nicholas Parish</cell>
+                     <cell> </cell>
+                     <cell>Francis Barrowes</cell>
+                  </row>
+                  <row>
+                     <cell>Buttolphs Parish</cell>
+                     <cell> </cell>
+                     <cell>Jeremy Daniell</cell>
+                  </row>
+                  <row>
+                     <cell>All-Saints</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Giles</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gdalen</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Trinity</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="22" facs="tcp:93404:13"/>
+                  <row>
+                     <cell>Rumballs</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Martine</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Peters</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Mile-end</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Green-street</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Beere-<gap reason="illegible: blotted" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>d</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="document">
+            <p>THe returne of the Classes of Essex according to directions of Parliament, by the standing Committee at Chelmesford for the County of Essex. <hi>March</hi> 3. 1646.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Tho. Honywood.</hi>
+                     </item>
+                     <item>
+                        <hi>A. Luther.</hi>
+                     </item>
+                     <item>
+                        <hi>William Collard.</hi>
+                     </item>
+                     <item>J. <hi>Barnardiston</hi>
+                     </item>
+                     <item>
+                        <hi>Isaac Aleyn.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="order">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>January</hi> 21. 1646</date>
+               </dateline>
+            </opener>
+            <p>AT the Committee of Lords and Commons appointed for judging of Scandall, and approving the Classes of the severall Counties of England.</p>
+            <p>It is ordered by the said Committee, That the Ministers and Elders within named shall be fourteene Classes in the County of Essex, according to the severall Limits expressed, and shall make one Province.</p>
+            <closer>
+               <dateline>
+                  <hi>Warwick.</hi>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>William Masham.</hi>
+                     </item>
+                     <item>
+                        <hi>Martin Lumley.</hi>
+                     </item>
+                     <item>
+                        <hi>Laurance Whitaker.</hi>
+                     </item>
+                     <item>
+                        <hi>William Purefoy.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Manchester.</hi>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Gilbert Gerard.</hi>
+                     </item>
+                     <item>
+                        <hi>Nath. Barnardiston.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Rous.</hi>
+                     </item>
+                     <item>
+                        <hi>Nath. Bacon.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93404:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
